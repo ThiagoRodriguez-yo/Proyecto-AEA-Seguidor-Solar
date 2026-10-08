@@ -13,6 +13,8 @@ Este proyecto consiste en la realización de un seguidor solar usando de base se
 -  1 AMS1117 5V
 -  1 ATtiny 85
 -  2 Fotoresistencias LDR (Light Dependent Resistor)
+-  2 Servomotor SG90
+-  1 Bateria Lipo 2S 450mAh
 
 ## Complementos de estudio
 
